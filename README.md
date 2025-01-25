@@ -10,6 +10,5 @@
   <a href="https://www.linkedin.com/in/oumarmimouni/" target="_blank">
     <img src="assets/linkedin.svg" alt="LinkedIn" height="24" />
   </a>
-  
 </p>
 
