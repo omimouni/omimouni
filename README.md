@@ -57,16 +57,16 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/qsj3xww2wfh6gie3is15mst6q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qsj3xww2wfh6gie3is15mst6q&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=omimouni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omimouni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omimouni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omimouni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://open.spotify.com/user/qsj3xww2wfh6gie3is15mst6q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qsj3xww2wfh6gie3is15mst6q&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
